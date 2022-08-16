@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/39a87dab-ce22-4413-a7a3-151363354086/deploy-status)](https://app.netlify.com/sites/onezeroware/deploys)
+
 # Overview
 
 This repository contains the code for the website OneZeroWare for the company of the same name.
