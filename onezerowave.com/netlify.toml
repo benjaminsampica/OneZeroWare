@@ -1,6 +1,4 @@
 [build]
-base = "onezerowave.com"
-publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
