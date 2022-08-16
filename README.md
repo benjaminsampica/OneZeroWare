@@ -14,8 +14,9 @@ The steps necessary to get the site up and running locally, making changes, etc.
 2. Install [Hugo](https://gohugo.io/getting-started/installing/) making sure to install the _extended_ version.
     - You may need to install a package manager first (e.g. [Chocolately](https://chocolatey.org/) for Windows).
 3. Inside a terminal, navigate to the folder that the repository is cloned to.
-5. Run `cd src` and then `hugo server -D`.
-4. Navigate to `http://localhost:1313/`.
+4. Run the command `cd onezerowave.com` 
+5. Run the command `hugo server -D`.
+6. Navigate to `http://localhost:1313/`.
 
 ## Making A Change
 Changes are pushed to production as soon as they are merged into main.
