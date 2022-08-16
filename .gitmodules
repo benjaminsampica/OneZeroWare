@@ -1,3 +1,3 @@
-[submodule "onezerowave.com/themes/hugo-fresh"]
-	path = onezerowave.com/themes/hugo-fresh
-	url = https://github.com/StefMa/hugo-fresh
+[submodule "onezeroware.com/themes/hugo-universal-theme"]
+	path = onezeroware.com/themes/hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme
