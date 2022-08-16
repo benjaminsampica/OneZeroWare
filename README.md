@@ -4,6 +4,8 @@
 
 This repository contains the code for the website OneZeroWare for the company of the same name.
 
+It is using the [Hugo Universal Theme](https://themes.gohugo.io/themes/hugo-universal-theme/).
+
 # Contributing
 
 The steps necessary to get the site up and running locally, making changes, etc. It's recommended to use Visual Studio Code to work inside of this repository.
