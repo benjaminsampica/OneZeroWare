@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Help is here"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Your partner in creating a solution that works for you"
   button:
     enable : true
     label : "Contact Us"
@@ -12,43 +12,27 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "What We Offer"
   feature_item:
-    # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Value For Money"
+      # feature item loop
+    - name : "Personalized Service"
       icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Sit down directly with the people that are going to be building what you need and stay in contact with them on your schedule."  
+
+    # feature item loop
+    - name : "Fast Feedback"
+      icon : "fas fa-shipping-fast"
+      content : "Don't wait weeks or months for something that you can actually see working. We'll deliver frequently - in minutes, hours, and days - so you can make sure we're building what works."
       
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+    - name : "PLACEHOLDER"
+      icon : "fas fa-object-group"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"   
 
 
 ######################### Service #####################
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "It is the most advanced digital marketing and it company."
@@ -105,7 +89,7 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "We're confident we can help you solve your next problem."
   button:
     enable : true
     label : "Contact Us"

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
-title = "Bigspring Light"
+baseURL = "https://onezeroware.com"
+title = "OneZeroWare"
 theme = "bigspring-light"
 # post pagination
 paginate = "3"

@@ -4,7 +4,7 @@
 
 This repository contains the code for the website OneZeroWare for the company of the same name.
 
-It is using the [Apsho Hugo Theme](https://github.com/StaticMania/hugo-apsho).
+It is using the [Bigspring Hugo Theme](https://github.com/gethugothemes/bigspring-light), whose documentation can be found [here](https://docs.gethugothemes.com/bigspring/?ref=github).
 
 # Contributing
 
