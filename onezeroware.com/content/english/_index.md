@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Help is here"
+  title : "Help Is Here"
   image : "images/banner-art.svg"
-  content : "Your partner in creating a solution that works for you"
+  content : "Your partner in creating a custom solution that works for you"
   button:
     enable : true
     label : "Contact Us"
@@ -12,42 +12,41 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "What We Offer"
+  title : "What We Can Do For You"
   feature_item:
       # feature item loop
-    - name : "Personalized Service"
+    - name : "A Personal Touch"
       icon : "fas fa-heart"
-      content : "Sit down directly with the people that are going to be building what you need and stay in contact with them on your schedule."  
+      content : "Sit down directly with the people that are going to be building what you need and interact with them at your pace and on your schedule."  
 
     # feature item loop
     - name : "Fast Feedback"
       icon : "fas fa-shipping-fast"
-      content : "Don't wait weeks or months for something that you can actually see working. We'll deliver frequently - in minutes, hours, and days - so you can make sure we're building what works."
+      content : "Don't wait weeks or months for something that you can actually see working. We'll deliver frequently - in minutes, hours, and days - so you can make sure we're building the right thing."
       
     # feature item loop
-    - name : "PLACEHOLDER"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"   
-
+    - name : "A Custom Solution"
+      icon : "fas fa-flask"
+      content : "We'll craft something together that fits your needs and solves your most pressing problems."   
 
 ######################### Service #####################
 service:
-  enable : false
+  enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Digitize Your Workflow"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Convert your manual processes - Excel spreadsheets, Word documents, etc. - into a digital form that can be easily viewed, understood, and manipulated."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "PLACEHOLDER"
       images:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -57,7 +56,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "PLACEHOLDER"
       images:
       - "images/service-2.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -67,7 +66,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "PLACEHOLDER"
       images:
       - "images/service-3.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
