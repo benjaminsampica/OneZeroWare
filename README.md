@@ -4,7 +4,7 @@
 
 This repository contains the code for the website OneZeroWare for the company of the same name.
 
-It is using the [Hugo Universal Theme](https://themes.gohugo.io/themes/hugo-universal-theme/).
+It is using the [Apsho Hugo Theme](https://github.com/StaticMania/hugo-apsho).
 
 # Contributing
 
